@@ -1,0 +1,7 @@
+venv
+.vscode
+.env
+__pycache__
+
+# Large Data Files
+data/EmbeddingsEmissionFactorsData.csv
